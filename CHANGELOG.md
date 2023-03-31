@@ -2,6 +2,12 @@
 
 <!--next-version-placeholder-->
 
+## v1.1.4 (2023-03-30)
+### Fix
+* Testee 4444444 ([`c72ca87`](https://github.com/mateuspadua/python-semantic-release/commit/c72ca87527c6c946da1a897c2acdd46b615fe25c))
+* Testee 33333a33asssasdadsaasdasdasd ([`3239c00`](https://github.com/mateuspadua/python-semantic-release/commit/3239c00fca768b807796a56735064e9cd76c3ffd))
+* Testee 33333a33asssasdadsa ([`d681c63`](https://github.com/mateuspadua/python-semantic-release/commit/d681c6337629487682d63eee85d4ee3340c184df))
+
 ## v1.1.3 (2023-03-30)
 ### Fix
 * Testee 33333a33asss ([`7cf9e92`](https://github.com/mateuspadua/python-semantic-release/commit/7cf9e924fcb5b79d1777974c156139d74454c7ec))
